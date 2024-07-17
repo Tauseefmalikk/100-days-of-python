@@ -38,17 +38,6 @@ while is_race_on:
         turtle.forward(rand_distance)
 
 
-# tommy = Turtle(shape="turtle")
-# tommy.color("pink")
-# tommy.penup()
-# tommy.goto(x=-210, y=0)
-#
-# roo = Turtle(shape="turtle")
-# roo.color("blue")
-# roo.penup()
-# roo.goto(x=-210, y=40)
-
-# roo.color("blue")
 
 
 screen.exitonclick()
